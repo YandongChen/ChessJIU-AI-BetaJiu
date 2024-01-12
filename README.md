@@ -18,3 +18,5 @@
 
 对弈过程页面
 ![19521705027301_ pic](https://github.com/YandongChen/ChessJIU-AI-BetaJiu/assets/121935022/d1b73c45-40e5-498c-a547-8c89e27093d6)
+
+最后，感谢大佬Sidney Liu，https://github.com/CLOXnu/Omega_Gomoku_AI
