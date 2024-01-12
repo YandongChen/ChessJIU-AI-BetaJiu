@@ -8,7 +8,7 @@
 2.系统截图
 
 首页
-![19551705027357_ pic](https://github.com/YandongChen/ChessJIU-AI-BetaJiu/assets/121935022/54a18c09-b15d-4471-b75d-4ad41b3dfa50)
+![19561705040625_ pic](https://github.com/YandongChen/ChessJIU-AI-BetaJiu/assets/121935022/4102fc2c-3296-4b52-bf2f-60f8847e3286)
 
 选手参数配置页面
 ![19531705027319_ pic](https://github.com/YandongChen/ChessJIU-AI-BetaJiu/assets/121935022/08b0941e-61a3-4fad-bbac-45c80409ea5f)
