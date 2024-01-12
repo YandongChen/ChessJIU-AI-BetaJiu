@@ -11,12 +11,12 @@
 ![19561705040625_ pic](https://github.com/YandongChen/ChessJIU-AI-BetaJiu/assets/121935022/4102fc2c-3296-4b52-bf2f-60f8847e3286)
 
 选手参数配置页面
-![19531705027319_ pic](https://github.com/YandongChen/ChessJIU-AI-BetaJiu/assets/121935022/08b0941e-61a3-4fad-bbac-45c80409ea5f)
+![19571705041368_ pic](https://github.com/YandongChen/ChessJIU-AI-BetaJiu/assets/121935022/f65a902b-dd71-442c-a07c-6c520ca1d817)
 
 对弈准备页面
-![19541705027338_ pic](https://github.com/YandongChen/ChessJIU-AI-BetaJiu/assets/121935022/4fde482a-94b7-4643-a461-699b4e024e08)
+![19581705041386_ pic](https://github.com/YandongChen/ChessJIU-AI-BetaJiu/assets/121935022/213b438a-14db-4249-9dbb-e90ab9f8a3cd)
 
 对弈过程页面
-![19521705027301_ pic](https://github.com/YandongChen/ChessJIU-AI-BetaJiu/assets/121935022/d1b73c45-40e5-498c-a547-8c89e27093d6)
+![19591705041437_ pic](https://github.com/YandongChen/ChessJIU-AI-BetaJiu/assets/121935022/adb6b16d-4e03-44fc-81b3-e915f3b04810)
 
 最后，感谢大佬Sidney Liu，https://github.com/CLOXnu/Omega_Gomoku_AI
